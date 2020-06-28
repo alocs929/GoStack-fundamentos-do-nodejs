@@ -36,12 +36,13 @@ $ git clone https://github.com/alocs929/GoStack-fundamentos-do-nodejs.git
 ```sh
 $ yarn
 ```
-Este comando vai dar converter toda estrutura de arquivos Typescrip para uma estrutura semelhante em Javascript.
+Este comando vai dar um start no projeto baixando as dependências faltantes e criando a pasta node_modules.
+
 **3. Faça a converção de TS => JS**
 ```sh
 $ yarn tsc
 ```
-Este comando vai dar um stat no projeto baixando as dependências faltantes e criando a pasta node_modules.
+Este comando vai converter toda estrutura de arquivos Typescrip para uma estrutura semelhante em Javascript.
 
 **4. Start o projeto**
 ```sh
